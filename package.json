@@ -1,0 +1,16 @@
+{
+  "name": "klw-ranking-bot",
+  "version": "1.0.0",
+  "description": "KLW WhatsApp Ranking Bot",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "moment-timezone": "^0.5.45",
+    "pino": "^8.19.0",
+    "fs-extra": "^11.2.0"
+  }
+}
